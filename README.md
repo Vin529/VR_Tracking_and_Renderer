@@ -1,4 +1,4 @@
-The code and report in this repository were submitted as part of the 3rd year Deep Learning Module to the Computer Science Department at Durham University. This work was awarded a mark of 89% (6th highest out of 100 students).
+The code and report in this repository were submitted as part of the 3rd year Virtual and Augmented Reality Module to the Computer Science Department at Durham University. This work was awarded a mark of 91% (6th highest out of 100 students).
 
 # Features
 In this project, I first extended the basic Python renderer at https://github.com/ecann/RenderPy with the following functionality:
