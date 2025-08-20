@@ -21,7 +21,7 @@ The provided videos demonstrate each of these features in action.
 # Repository Structure
 model.py, physicsEnvironment.py and quaternion.py are all implemented from scratch, and are entirely my own code. Other than part of the renderModel() function, render.py is also my own code. image.py, shape.py and vector.py are all largely unchanged from their original implementations in RenderPy (https://github.com/ecann/RenderPy).
 
-Positions, weights, initial velocities and other properties for each object in the scene can be changed in render.py, as well as adding additional objects. Properties of the physics system itself, such as drag coefficient and air resistance, can be changed in physicsEnvironment.py. Detailed instructions for this can be found in "src/README.txt".
+Positions, weights, initial velocities and other properties for each object in the scene can be changed in render.py, as well as adding additional objects. Properties of the physics system itself, such as drag coefficient and air resistance, can be changed in physicsEnvironment.py. Detailed instructions for this can be found in `src/README.txt`.
 
 The video directory contains four 27 second renders, each showing the same scene, but with a different method used for correcting tracking error.
 
